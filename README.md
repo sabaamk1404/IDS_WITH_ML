@@ -27,9 +27,9 @@ To ensure easy execution without local setup, this project can be run directly o
 
 ## ▶️ Open in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/sabaamk1404/IDS_WITH_ML/blob/main/Run_IDS_Project.ipynb)
 
----
 ##########################################################################################
 
 This repository contains the implementation of a Machine Learning–based Intrusion Detection System (IDS) developed as an academic project.
@@ -198,6 +198,7 @@ Translated version: IDSt.pdf
 
 
 For questions regarding the full implementation or execution details, please refer to the documentation or the complete project files linked above.
+
 
 
 
