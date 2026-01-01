@@ -1,5 +1,5 @@
 ## Intrusion Detection System (IDS) using Machine Learning
-######################################################################################################
+##########################################################################################
 
 ARTICLE-->[IDS.pdf](https://github.com/user-attachments/files/24402348/IDS.pdf)
 
@@ -8,7 +8,30 @@ ARTICLE TRANSLATION-->[IDSt.pdf](https://github.com/user-attachments/files/24402
 PROJECT REPORT-->[project report.pdf](https://github.com/user-attachments/files/24402365/project.report.pdf)
 
 DATASETS-->https://www.unb.ca/cic/datasets/index.html
-#######################################################################################################
+## 🚀 Run Project on Google Colab
+
+To ensure easy execution without local setup, this project can be run directly on **Google Colab**.
+
+### Steps to Run:
+
+1. Open the Google Colab notebook.
+2. Run all cells **in order** from top to bottom.
+3. The Streamlit application (`app.py`) will be launched automatically.
+4. A public URL (generated via `trycloudflare.com`) will be displayed in the output.
+5. Open the generated URL in your browser to access the application.
+
+> ⚠️ Note:  
+> The generated link is temporary and remains active only while the Colab runtime is running.
+
+---
+
+## ▶️ Open in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
+
+---
+##########################################################################################
+
 This repository contains the implementation of a Machine Learning–based Intrusion Detection System (IDS) developed as an academic project.
 
 The project is inspired by the research paper:
@@ -175,5 +198,6 @@ Translated version: IDSt.pdf
 
 
 For questions regarding the full implementation or execution details, please refer to the documentation or the complete project files linked above.
+
 
 
