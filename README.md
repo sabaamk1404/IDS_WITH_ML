@@ -7,6 +7,10 @@ ARTICLE TRANSLATION-->[IDSt.pdf](https://github.com/user-attachments/files/24402
 
 PROJECT REPORT-->[Project-Report.pdf](https://github.com/user-attachments/files/24407406/Project-Report.pdf)
 
+video-->https://drive.google.com/file/d/1YznfFq1NhfXBxljn2zsVqktFtzCvI9c0/view?usp=sharing
+
+pictures-->[pictures.zip](https://github.com/user-attachments/files/24409790/pictures.zip)
+
 
 DATASETS-->https://www.unb.ca/cic/datasets/index.html
 ## 🚀 Run Project on Google Colab
@@ -199,6 +203,7 @@ Translated version: IDSt.pdf
 
 
 For questions regarding the full implementation or execution details, please refer to the documentation or the complete project files linked above.
+
 
 
 
